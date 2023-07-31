@@ -1,0 +1,12 @@
+Package: Getver
+Name: Getver
+Version: 1.0
+Section: Tweaks
+Architecture: iphoneos-arm
+Description: Tweaks for IOS
+Maintainer: An Tran
+Author: An Tran
+Section: Tweaks
+Filename: ./debs/com.getver.deb
+Size: 7838
+MD5sum: ce5e7c1dd0be627eb4c64461e9a0c498
